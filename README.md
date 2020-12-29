@@ -1,5 +1,4 @@
 # Little-CTF-s-chanllage-collection
 
-# Welcome all of you can participate in it!
+# Welcome ~
 
-# And the 're' is a default
