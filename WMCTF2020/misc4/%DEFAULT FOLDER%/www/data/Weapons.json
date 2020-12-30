@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"animationId":6,"description":"真丶最好的剑！！","etypeId":1,"traits":[{"code":41,"dataId":2,"value":1},{"code":22,"dataId":0,"value":1},{"code":22,"dataId":2,"value":0.3}],"iconIndex":97,"name":"最好的剑","note":"","params":[0,0,500,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":2,"animationId":0,"description":"带上它，你就会很幸运，但也只是很幸运","etypeId":1,"traits":[{"code":31,"dataId":8,"value":0},{"code":22,"dataId":1,"value":0.2}],"iconIndex":106,"name":"幸运の拳击套","note":"","params":[0,0,0,0,0,0,0,500],"price":999,"wtypeId":11},
+{"id":3,"animationId":0,"description":"传说是一位大法师曾经用过的……啊哈！","etypeId":1,"traits":[{"code":22,"dataId":2,"value":0.1},{"code":22,"dataId":0,"value":0.15}],"iconIndex":101,"name":"传说中的魔法杖","note":"","params":[0,0,0,0,111,0,0,0],"price":9999,"wtypeId":6},
+{"id":4,"animationId":0,"description":"此刃在淬炼之时，曾经剧毒淬炼，剧毒无比\n使用者要多加小心","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.25}],"iconIndex":96,"name":"淬毒之刃","note":"","params":[0,0,233,0,0,0,0,0],"price":888,"wtypeId":1},
+{"id":5,"animationId":0,"description":"三国时期，诸葛亮发明，相传威力无比","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":6,"value":0.25}],"iconIndex":103,"name":"诸葛连弩","note":"","params":[0,0,99,0,0,0,0,0],"price":777,"wtypeId":8}
+]
